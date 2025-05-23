@@ -9,7 +9,7 @@
 
 <p>Open <strong>http://localhost:8000</strong> in your browser to access a basic login form:</p>
 
-<p><img src="image/webchatlogin.png" alt="Login screen"></p>
+<p><img src="image\webchatlogin.png" alt="Login screen"></p>
 
 <ol>
   <li>Type in your <strong>Username</strong>.</li>
